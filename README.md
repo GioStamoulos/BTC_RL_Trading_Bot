@@ -3,7 +3,7 @@
 **About**
 
 A trading bitcoin agent was created with deep reinforcement learning implementations. Various experiments were performed on the type of neural network, the type of reinforcement
-learning algorithm and the number of daily input values that initially required the agent to make the first decision. Also, the agent was made with the assumption that for each 
+learning algorithm and the number of daily input values that initially required from agent to make the first decision. Also, the agent was made with the assumption that for each 
 day could ‘Sell’ or ‘Buy’. 
 
 **Environment & RL Algorithms**
