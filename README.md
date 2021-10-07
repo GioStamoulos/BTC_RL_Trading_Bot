@@ -31,6 +31,9 @@ days-values, which are used to evaluate the agent based on the  price of profit.
 |TRPO_30	|19910	|1.110|
 |TRPO_50	|14969	|1.187|
 
+**PPO1_30**
+![image](https://user-images.githubusercontent.com/60938391/136466692-4c2a7742-5be5-4385-a331-8a6cb113f3c5.png)
+
 **References**  
 
 [1]   https://github.com/AminHP/gym-anytrading  
